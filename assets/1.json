@@ -1,0 +1,19 @@
+{
+  "name": "down under",
+  "symbol": "",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "5233NF1h828Yawyt7s6rkMb19JWxyq63i22GhyLaMy7Z",
+        "share": 100
+      }
+    ]
+  }
+}
